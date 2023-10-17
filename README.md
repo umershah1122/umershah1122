@@ -1,10 +1,10 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fprogramming-banner-coding-best-programming-languages%2F194010093&psig=AOvVaw0-9Eoj5_xrIdCK3PmUvl4l&ust=1697480248845000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiPouzU-IEDFQAAAAAdAAAAABAR)
+![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Umer Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img
   align="right"
   width="400"
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1v2bfvpLsN007VnWCQNmE0&ust=1697479982951000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLju5OzT-IEDFQAAAAAdAAAAABAE"
+  src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"
   alt="coding"
 />
 <p align="left">
